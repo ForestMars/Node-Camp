@@ -24,8 +24,9 @@ p a {
 	text-align: center;
 	display: block;
 	margin-top: 1%;
-	padding-right: 1em;
-	padding-left: 1em;
+	margin-right: auto;
+	width: 400px;
+	margin-left: auto;
 }
 
 
