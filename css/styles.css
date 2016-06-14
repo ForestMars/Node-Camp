@@ -44,6 +44,15 @@ p.date {
   font-weight: 100;
  	font-size: 2em;
 	margin-top: 1em;
+	margin-bottom: .15em;
+	margin-left: 0;
+	padding: 0;
+}
+
+p.date-time {
+  color: white;
+  font-weight: 100;
+ 	font-size: .95rem;
 	margin-bottom: .5em;
 	margin-left: 0;
 	padding: 0;
@@ -67,7 +76,7 @@ p.updates {
 
 div.logo {
 	text-align: center;
-	width: 400px;
+	width: 180px;
 	margin-right: auto;
 	margin-left: auto;
 } 
@@ -105,11 +114,18 @@ div.logo {
 	right: 0;
 	bottom: 0;
 	color: white;
-	padding: .75em;
+	padding: 1em 1.5em;
 	font: 11px "Helvetica Neue", Arial, Helvetica, Geneva, sans-serif;
 }
 
-
+a.button {
+	padding: .35em 1em;
+	background-color: #457f1a;
+	border: 1px solid green;
+	line-height: 2em;
+	font-size: .85em;
+	font-weight: bold;
+}
 
 
 
