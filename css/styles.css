@@ -195,3 +195,15 @@ h4.block-title {
 	text-align: center;
 }
 
+
+.session {
+	display: block;
+}
+
+.scheduling .slot,
+.session .scheduling .date {
+	display: block!important;
+}
+
+
+
